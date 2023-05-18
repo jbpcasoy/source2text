@@ -4,7 +4,7 @@
 2. make sure you have node.js installed.
 # What
 Exports your whole source code as a text file.
-# How to use
+# How
 1. run the following command:
 ```
 npm start
